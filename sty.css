@@ -352,7 +352,7 @@ nav .fa-solid{
         width:250px;
         height:100vh;
         padding-top:50px;
-        z-index: 2;
+        z-index: 1;
         transition: 0.5s;
     }
     nav ul li{
